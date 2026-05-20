@@ -18,7 +18,7 @@ as a learning tool.
 | 3 | [Complete All Four Lessons](#note-there-are-a-total-of-four-4-lessons-that-you-must-complete-in-killercoda) |
 | 4 | [Lesson 1 - List Files](#task-4-lesson1---list-files) |
 | 5 | [Lesson 2 - Your Best Friend "man"](#task-2-lesson-2---your-best-friend-man) |
-| 6 | [Lesson 3 - Create and Delete Files](#task-3-lesson-3---create-and-delete-files) |
+| 6 | [Lesson 3 - Work with Directories](#task-3-lesson-3---create-and-delete-files) |
 | 7 | [Lesson 4 - Create and Delete Files](#task-4-lesson-4---create-and-delete-files) |
 | 8 | [Final Submission](#final-submission) |
 
